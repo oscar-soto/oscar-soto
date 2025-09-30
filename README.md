@@ -1,5 +1,5 @@
 <h1 align="center">Hola ✌️, soy Oscar Espinoza</h1>
-<h3 align="center">Desarrollador Web de Venezuela viviendo en Chile</h3>
+<h2 align="center">Desarrollador Web</h3>
 
 - 🤓 Estoy aprendiendo **React.js y Node.js**
 
